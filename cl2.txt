@@ -1,3 +1,3 @@
-vhgkw-38-183-51-100.run.pinggy-free.link:41795,
+glfdf-38-183-51-100.run.pinggy-free.link:40449,
 [transports]
 ws=wss://qajqm-38-183-51-100.free.pinggy.net:443/q
